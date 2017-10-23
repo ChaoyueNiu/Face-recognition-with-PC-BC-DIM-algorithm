@@ -1,9 +1,0 @@
-this original code is from http://www.pudn.com/ 
-To meet the requirement of project, i have modified some area of manual program and automatic program.
-Automatically: 
-run the demo, after alignment will be automatically generated in the root directory of images
- 
-Manually: 
-run getAlignedFace_demo, then select the image to be manually adjusted, and the result will be in the corresponding folder in the root directory. 
- 
-att_faces is pgm format of ORL dataset
